@@ -64,4 +64,4 @@ Create a Flask application that:
 3. Displays the data in an HTML dashboard.
 
 ## 📊 Flask Dashboard
-![Dashboard Overview](Screenshot20%2026-09-2020%175241.png)
+![Dashboard Overview](Screenshot%202026-09-20%20175241.png)
