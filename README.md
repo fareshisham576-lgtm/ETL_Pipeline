@@ -62,3 +62,6 @@ Create a Flask application that:
 1. Connects to SQL Server.
 2. Retrieves the `Sales` table.
 3. Displays the data in an HTML dashboard.
+
+## 📊 Flask Dashboard
+![Dashboard Overview](Screenshot20%2026-09-2020%175241.png)
